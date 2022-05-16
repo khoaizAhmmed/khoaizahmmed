@@ -46,6 +46,6 @@
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoaizahmmed&show_icons=true&locale=en&layout=compact" alt="khoaiz" /></p>
 
 ### Github Stats 
-![Gazi Rahad's GitHub stats](https://github-readme-stats-green-three.vercel.app/api?username=khoaizahmmed&count_private=true&theme=tokyonight)
+![khoaizahmmed's GitHub stats](https://github-readme-stats-green-three.vercel.app/api?username=khoaizahmmed&count_private=true&theme=tokyonight)
 
 © 2022 GitHub, Inc.
